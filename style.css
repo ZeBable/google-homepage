@@ -1,6 +1,12 @@
-.searchAndImg {
-    width: 30em;
-    margin: auto;
-    
+.centerBlock{
+    min-height: 40em;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.googleImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
